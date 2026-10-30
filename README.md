@@ -8,6 +8,7 @@ Agent skills for AI coding assistants and chat agents, in the [Agent Skills](htt
 |---|---|---|
 | `rzjnzk-writing-style` | Original | rzjnzk's English writing style for files and artefacts |
 | `umbrella-commit` | Original | Repo-history commit messages with a 50-character umbrella subject |
+| `rzjnzk-posix-sh` | Original | rzjnzk's portable POSIX `sh` style, from his scripts in `~/.u` |
 | `caveman` | [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | Terse chat replies that keep every technical fact |
 | `ultracave` | [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | A more aggressive variant of `caveman` |
 | `megacave` | [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | A Classical Chinese variant of `caveman` |
